@@ -14,4 +14,9 @@
     <li IfModActive="nilchei.powerfulpsycastai">Common/ModCompatibility/Powerful Psycast AI</li>
     <li>1.4</li>
   </v1.4>
+   <v1.5>
+    <li>Common</li>
+    <li IfModActive="nilchei.powerfulpsycastai">Common/ModCompatibility/Powerful Psycast AI</li>
+    <li>1.5</li>
+  </v1.5>
 </loadFolders>
